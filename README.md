@@ -27,7 +27,7 @@ yarn log
 #### Installation
 
 ```
-npm install node-log
+npm install node-log-info
 ```
 
 #### Usage
