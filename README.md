@@ -1,4 +1,4 @@
-<h2>node-logger 👋</h2>
+<h2>node-log-info 👋</h2>
 <p>
   <img src="http://img.shields.io/badge/version-1.1.1-blue.svg?cacheSeconds=2592000" />
 </p>
@@ -27,14 +27,14 @@ yarn log
 #### Installation
 
 ```
-npm install node-logger
+npm install node-log
 ```
 
 #### Usage
 
 ```js
 # Example
-import Logger from 'logger';
+import Logger from 'node-log-info';
 const logger = new Logger({
   name: 'app';
   filePath:'./logs';
