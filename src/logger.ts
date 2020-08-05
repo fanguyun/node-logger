@@ -42,8 +42,8 @@ export default class Logger extends Map {
     });
 
     this.transports = isFile
-      ? [consoleTransport]
-      : [consoleTransport, sillyTransport];
+      ? [consoleTransport, sillyTransport]
+      : [consoleTransport];
     this.set(name);
     Object.keys(Levels).forEach((key: string) => {
       this[Levels[key]] = (...args: any) => {
