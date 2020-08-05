@@ -1,6 +1,6 @@
 <h2>node-logger 👋</h2>
 <p>
-  <img src="http://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <img src="http://img.shields.io/badge/version-1.1.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > 基于 winston 的 node 日志服务
