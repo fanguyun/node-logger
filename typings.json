@@ -1,0 +1,6 @@
+{
+  "name": "node-logger",
+  "dependencies": {
+    "winston": "registry:dt/winston#2.3.0+20170323124512"
+  }
+}
