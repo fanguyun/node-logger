@@ -1,0 +1,6 @@
+./src
+.babelrc
+.npmrc
+server.js
+.prettierrc
+.prettierignore
