@@ -17,6 +17,9 @@ yarn dev
 # test
 yarn test
 
+# build
+yarn build
+
 # lint
 yarn lint
 
